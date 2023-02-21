@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #1e293b;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  padding: 200px;
+}
+.welcome-heading {
+  font-family: 'Bree Serif';
+  font-size: 60px;
+  color: #f0bb03;
+}
+.para {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #ffffff;
+}
+.button {
+  font-family: 'Bree Serif';
+  color: #1e293b;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 8px;
+}
